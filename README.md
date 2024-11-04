@@ -1,6 +1,8 @@
 # Task-Management-Web-Application
 
----
+**Project Overview**  
+This Task Management Web Application is a comprehensive platform designed to help individuals and teams organize their tasks efficiently and improve productivity. This web-based application allows users to create, update, and manage tasks seamlessly through an intuitive user interface. Key features include task categorization, priority setting, deadline management, and user collaboration. With a focus on usability and functionality, the application supports real-time task tracking and status updates, making it ideal for project management and team coordination.
+
 
 **My Contribution**  
 I developed this task management web application using Django, leveraging Python’s powerful backend capabilities to create a robust, easy-to-navigate system for managing tasks. My contributions involved both backend and frontend development, from implementing the task handling logic to creating a responsive, user-friendly interface with Bootstrap. I also integrated PostgreSQL for efficient data management and handled deployment configurations, ensuring the application’s seamless performance and scalability.
@@ -60,5 +62,6 @@ I developed this task management web application using Django, leveraging Python
 - **📊 Dashboard Overview**: View a summary of tasks, deadlines, and notifications to stay up-to-date on team activity.
 
 ---
+**Snapshots**
 
-This task management application was developed to not only simplify task delegation but also enhance collaboration and project tracking. Each feature was carefully built to support users in organizing, tracking, and prioritizing work in a streamlined and effective way.
+
