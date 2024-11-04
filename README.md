@@ -63,5 +63,6 @@ I developed this task management web application using Django, leveraging Python
 
 ---
 **Snapshots**
+![Leonardo_Phoenix_Design_a_mockup_of_a_Task_Management_Web_Appl_1](https://github.com/user-attachments/assets/01e2620d-6512-4c74-b753-d4b3e8af0529)
 
 
